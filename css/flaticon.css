@@ -28,7 +28,7 @@
 }
 
 .flaticon-add:before { content: "\f100"; }
-.flaticon-bag:before { content: "\f101"; }
+.fas fa-shopping-bag:before { content: "\f101"; }
 .flaticon-battery:before { content: "\f102"; }
 .flaticon-bell:before { content: "\f103"; }
 .flaticon-bluetooth:before { content: "\f104"; }
@@ -60,7 +60,7 @@
 .flaticon-gamepad:before { content: "\f11e"; }
 .flaticon-garbage:before { content: "\f11f"; }
 .flaticon-headphones:before { content: "\f120"; }
-.flaticon-heart:before { content: "\f121"; }
+.fas fa-heart:before { content: "\f121"; }
 .flaticon-help:before { content: "\f122"; }
 .flaticon-home:before { content: "\f123"; }
 .flaticon-hourglass:before { content: "\f124"; }
@@ -86,7 +86,7 @@
 .flaticon-power:before { content: "\f138"; }
 .flaticon-presentation:before { content: "\f139"; }
 .flaticon-printer:before { content: "\f13a"; }
-.flaticon-profile:before { content: "\f13b"; }
+.far fa-user:before { content: "\f13b"; }
 .flaticon-prohibition:before { content: "\f13c"; }
 .flaticon-push-pin:before { content: "\f13d"; }
 .flaticon-puzzle:before { content: "\f13e"; }
@@ -97,7 +97,7 @@
 .flaticon-right-arrow-1:before { content: "\f143"; }
 .flaticon-rocket-launch:before { content: "\f144"; }
 .flaticon-screen:before { content: "\f145"; }
-.flaticon-search:before { content: "\f146"; }
+.fas fa-search:before { content: "\f146"; }
 .flaticon-settings:before { content: "\f147"; }
 .flaticon-settings-1:before { content: "\f148"; }
 .flaticon-settings-2:before { content: "\f149"; }

@@ -6,6 +6,9 @@ body {
 	-webkit-font-smoothing: antialiased;
 	/* font-smoothing: antialiased; */
 }
+.fas{
+	color:#92802E;
+}
 
 span{
 	color:#92802E ;
@@ -380,6 +383,7 @@ ol {
 
 .user-panel .up-item i {
 	font-size: 22px;
+	color: #92802E;
 }
 
 .user-panel .up-item a {
@@ -859,7 +863,7 @@ ol {
 	display: inline-table;
 	width: 36px;
 	height: 36px;
-	background: #fff;
+	background: #92802E;
 	border-radius: 60px;
 	font-size: 18px;
 	line-height: 18px;
@@ -877,7 +881,7 @@ ol {
 
 .product-item .pi-links a i {
 	display: inline-block;
-	color: #000;
+	color: blue;
 }
 
 .product-item .pi-links a.add-card {
@@ -952,13 +956,13 @@ ol {
 
 .product-filter-menu li a {
 	color: blue;
-	font-size: 12px;
+	font-size: 15 px;
 	font-weight: 700;
 	text-transform: uppercase;
 	background: #92802E;
 	display: block;
 	width: 100%;
-	padding: 10px 34px;
+	padding: 5px 20px;
 	border-radius: 31px;
 }
 .main-navbar{

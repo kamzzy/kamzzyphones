@@ -1,0 +1,28 @@
+# Query: fas fa-search
+# Flags: IgnoreExcludeSettings
+
+9 results - 9 files
+
+cart.html:
+  53: 							<button><i class="fas fa-search"></i></button>
+
+category.html:
+  53: 							<button><i class="fas fa-search"></i></button>
+
+checkout.html:
+  53: 							<button><i class="fas fa-search"></i></button>
+
+contact.html:
+  53: 							<button><i class="fas fa-search"></i></button>
+
+index.html:
+  63: 							<button><i class="fas fa-search"></i></button>
+
+iphone.html:
+  62: 							<button><i class="fas fa-search"></i></button>
+
+product.html:
+  53: 							<button><i class="fas fa-search"></i></button>
+
+samsung.html:
+  61: 							<button><i class="fas fa-search"></i></button>
